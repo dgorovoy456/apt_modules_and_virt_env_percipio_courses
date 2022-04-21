@@ -12,3 +12,4 @@ setup(
 )
 
 # python3 setup.py sdist // to convert calc package to distribution file
+# pip install calc-1.0.tar.gz // to install package inside virtual environment
