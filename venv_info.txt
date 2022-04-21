@@ -4,3 +4,8 @@
 3. virtualenv first_env // to create new venv
 4. which python2 // to check where is the python2 located
 5. virtualenv -p /usr/bin/python2 first_env/ // to use python2 to first env
+6. python --version // to check python version
+7. source first_env/bin/activate // to activate created env
+8. pip list // to check python packages installed inside the venv
+9. pip install PACKAGE_NAME // to install packages inside venv
+10. deactivate // to deactivate venv
