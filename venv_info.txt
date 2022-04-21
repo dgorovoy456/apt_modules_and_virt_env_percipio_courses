@@ -1,0 +1,6 @@
+
+1. pip install virtualenv --upgrade // to install venv
+2. virtualenv --version // to check venv version
+3. virtualenv first_env // to create new venv
+4. which python2 // to check where is the python2 located
+5. virtualenv -p /usr/bin/python2 first_env/ // to use python2 to first env
